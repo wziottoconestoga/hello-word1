@@ -1,2 +1,2 @@
-# hello-word1
-Website Design
+# hello-word
+After finish my Webdesign program I would like to enhance my own website.
